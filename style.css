@@ -1,0 +1,11 @@
+ul.chevron-list {
+    line-height: 25px;
+    list-style-type: none;
+    padding: 0px;
+}
+ul.chevron-list li:before {
+    font-family: 'Glyphicons Halflings';
+    content: '\e258';
+    margin: 0 5px 0 0px;
+    font-size: 0.8em;
+}
